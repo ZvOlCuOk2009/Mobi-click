@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TSMeinViewController.h
 //  Mobi-click
 //
 //  Created by Mac on 07.10.16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TSMeinViewController : UIViewController
 
 @end
-
